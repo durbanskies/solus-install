@@ -11,7 +11,7 @@
   - `sudo su`
   - `echo "modprobe.blacklist=nouveau" > /etc/kernel/cmdline`
   - `clr-boot-manager update`
-- amd gpu backlight brightness
+- amd gpu backlight brightness !
   - `sudo su`
   - `echo "amdgpu.backlight=0"`
   - `clr-boot-manager update`
