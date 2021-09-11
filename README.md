@@ -15,7 +15,7 @@
     - 512mb as **FAT32**
     - Optional  4096mb as **linux-swap** (Change this amount, depending on your systems ram, or you can skip this)
     - Remaining as **EXT4**
-  - After created, right click and assign boot flag to the *512mb FAT32 EFI*
+  - After created, right click and assign `boot` flag to the *512mb FAT32 EFI*
   - The windows 10 installation also has a 100mb FAT32 EFI file, right click and uncheck the `boot` flag
   - Making sure there is only 1 partition with the "``boot,esp``" flags, the other EFI for windows is likely now flagged as *msftdata*
   ![onlybootflag](onlybootflag.png)
