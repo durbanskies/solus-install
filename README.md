@@ -7,7 +7,7 @@
 - Clone qogir-theme and install
 - winecfg -> virtual desktop on
 - flameshot config + shortcut
-- disable nouveau
+- disable nouveau !!!s
   - `sudo su`
   - `echo "modprobe.blacklist=nouveau" > /etc/kernel/cmdline`
   - `clr-boot-manager update`
