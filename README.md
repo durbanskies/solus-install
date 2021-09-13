@@ -1,5 +1,5 @@
 # solus-install
-### Solus budgie works great on the Legion 5 15ARH05 with support for nvidia, brightness, trackpad and good battery life.
+### Solus budgie works great on the Legion 5 15ARH05 with good support for nvidia, brightness, trackpad and good battery life.
 
 <br>
 
